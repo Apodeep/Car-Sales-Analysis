@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Local data files
+*.csv
+*.xlsx
+
+# Power BI temporary files
+~$*.pbix
+
+# OS files
+.DS_Store
+Thumbs.db
